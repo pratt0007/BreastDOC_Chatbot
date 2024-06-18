@@ -107,6 +107,13 @@ def main():
         .st-b7 {
         background-color: transparent;
         border: 2px solid #c871a4;
+        .sidebar .stButton button { background-color: pink; color: black; };
+        }
+        .st-emotion-cache-13k62yr {
+        color: black;
+        }
+        .st-emotion-cache-hc3laj{
+        color: white;
         }
 
         </style>
